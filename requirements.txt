@@ -28,7 +28,7 @@ async-lru==2.0.4
 helper
 pyaes==1.6.1
 soupsieve==2.5
-py-tgcalls==1.0.1
+
 httpx[http2]
 img2pdf
 tglogging
