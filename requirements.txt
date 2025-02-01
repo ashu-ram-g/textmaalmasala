@@ -8,7 +8,6 @@ ffprobe
 aiohttp==3.8.6
 aiofiles==23.2.1
 asyncio==3.4.3
-pycurl==7.45.2
 humanize==4.8.0
 cryptg==0.4.0
 telethon==1.32.0
